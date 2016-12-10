@@ -2,7 +2,7 @@
 
 ## What is phpspec ?
 
-[phpspec](http://www.phpspec.net/en/stable/) is A php toolset to drive emergent
+[phpspec](http://www.phpspec.net/en/stable/) is a php toolset to drive emergent
 design by specification. 
 
 The phpspec documentation is [here](http://www.phpspec.net/en/stable/manual/introduction.html).
